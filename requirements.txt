@@ -1,0 +1,10 @@
+streamlit==1.28.0
+torch==2.1.0
+torchvision==0.16.0
+diffusers==0.21.4
+transformers==4.34.0
+accelerate==0.24.0
+modelscope==1.9.2
+pillow==10.0.1
+numpy==1.24.3
+opencv-python==4.8.1.78
