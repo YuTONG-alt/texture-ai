@@ -1,0 +1,7 @@
+# 勿提交密钥（填入真实 key 后务必加入）
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+.venv/
+*.pyc
