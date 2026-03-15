@@ -1,0 +1,8 @@
+# 本地完整版 (app.py / generate_pbr.py)：需本地 GPU/CPU 跑 SD
+-r requirements.txt
+torch>=2.1.0
+torchvision>=0.16.0
+diffusers>=0.21.0
+transformers>=4.34.0
+accelerate>=0.24.0
+modelscope>=1.9.0
